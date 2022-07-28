@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sadaftyapp">
+
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SadaftyAPP">
+        <activity
+            android:name=".activites.SliderActivity"
+            android:exported="true" >
+
+        </activity>
+        <activity
+            android:name=".activites.FullActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.BursaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.ThaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.CaeruleumActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.TerebraliaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.ClypeomorusActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.NeritaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.TurboActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.CerithideaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.CerithiumActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.PlantainsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".onbording.BorderOneActivity"
+            android:exported="true"
+            android:theme="@style/CustomActivityThemeNoActionBar" />
+        <activity
+            android:name=".onbording.BorderTwoActivity"
+            android:exported="true"
+            android:theme="@style/CustomActivityThemeNoActionBar" />
+        <activity
+            android:name=".activites.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

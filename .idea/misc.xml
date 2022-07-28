@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/drawable/ic_back.xml" value="0.18203125" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/drawable/round_rect_shape.xml" value="0.25435897435897437" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/drawable/shap_card.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/drawable/shap_image.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/font/tajawal_bold.xml" value="0.2682051282051282" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_border_one.xml" value="0.264" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_border_two.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_bursa.xml" value="0.2" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_caeruleum.xml" value="0.264" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_cerithidea.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_cerithium.xml" value="0.264" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_clypeomorus.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_full.xml" value="0.176" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_fullscreen.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_main2.xml" value="0.181640625" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_nerita.xml" value="0.152" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_on_bordarring_two.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_plantains.xml" value="0.2" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_slider.xml" value="0.169921875" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_splash.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_terebralia.xml" value="0.2" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_thais.xml" value="0.2" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/activity_turbo.xml" value="0.2" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/grid_item_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/image_holder.xml" value="0.169921875" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/item_image_recycler.xml" value="0.264" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/layout/test.xml" value="0.176" />
+        <entry key="..\:/Users/LEGION5/AndroidStudioProjects/SadaftyAPP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

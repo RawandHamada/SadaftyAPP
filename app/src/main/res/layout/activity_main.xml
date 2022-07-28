@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layoutDirection="rtl"
+    android:background="@color/white"
+    tools:context=".activites.MainActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/white">
+        <TextView
+            android:id="@+id/toolbarTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxLines="1"
+            android:textColor="@color/black"
+            android:fontFamily="@font/tajawal_regular"
+            android:text="@string/title_main"
+            android:textSize="16sp"
+            android:textAppearance="@android:style/TextAppearance.WindowTitle"
+            android:visibility="visible" />
+
+    </androidx.appcompat.widget.Toolbar>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:orientation="horizontal"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.48"
+                tools:ignore="UseCompoundDrawables">
+                <ImageView
+                    android:id="@+id/imgCerithium"
+                    android:layout_width="160dp"
+                    android:layout_height="170dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/imgcerithiumsc"
+                    android:contentDescription="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/textCerithiumse"
+                    android:layout_width="158sp"
+                    android:layout_height="33dp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="@string/cerithium_scabridum"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.48"
+                tools:ignore="UseCompoundDrawables">
+                <ImageView
+                    android:id="@+id/imgPlanaxis"
+                    android:layout_width="160dp"
+                    android:layout_height="170dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/imgplanaxis"
+                    android:contentDescription="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/textPlanaxis"
+                    android:layout_width="158sp"
+                    android:layout_height="33dp"
+                    android:textSize="13sp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"
+                    android:text="@string/planaxis_sulcatus"
+                     />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:orientation="horizontal"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.48"
+                tools:ignore="UseCompoundDrawables">
+                <ImageView
+                    android:id="@+id/imgTurbo"
+                    android:layout_width="160dp"
+                    android:layout_height="170dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/imgturbo"
+                    android:contentDescription="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/textTurbo"
+                    android:layout_width="158sp"
+                    android:layout_height="33dp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="@string/turbo_bruneus"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.48"
+                tools:ignore="UseCompoundDrawables">
+                <ImageView
+                    android:id="@+id/imageCerithidea"
+                    android:layout_width="160dp"
+                    android:layout_height="170dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/imgcerithidea"
+                    android:contentDescription="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/textCerithidea"
+                    android:layout_width="158sp"
+                    android:layout_height="33dp"
+                    android:textSize="13sp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"
+                    android:text="@string/cerithidea_cingulate" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:orientation="horizontal"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.48"
+                tools:ignore="UseCompoundDrawables">
+                <ImageView
+                    android:id="@+id/imageClypeomorus"
+                    android:layout_width="160dp"
+                    android:layout_height="170dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/imgclypeomorus"
+                    android:contentDescription="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/textClypeomorus"
+                    android:layout_width="158sp"
+                    android:layout_height="33dp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="@string/clypeomorus_bifasciatus"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.48"
+                tools:ignore="UseCompoundDrawables">
+                <ImageView
+                    android:id="@+id/imageNerita"
+                    android:layout_width="160dp"
+                    android:layout_height="170dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/imgnerita"
+                    android:contentDescription="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/textNerita"
+                    android:layout_width="158sp"
+                    android:layout_height="33dp"
+                    android:textSize="13sp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"
+                    android:text="@string/nerita_albicilla" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:orientation="horizontal"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.48"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    android:id="@+id/imageCaeruleum"
+                    android:layout_width="160dp"
+                    android:layout_height="170dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/app_name"
+                    app:srcCompat="@drawable/imgcerithium" />
+
+                <TextView
+                    android:id="@+id/textCerithium"
+                    android:layout_width="158sp"
+                    android:layout_height="33dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="@string/cerithium_caeruleum"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.48"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    android:id="@+id/imageTerebralia"
+                    android:layout_width="160dp"
+                    android:layout_height="170dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/app_name"
+                    app:srcCompat="@drawable/imgterebralia" />
+
+                <TextView
+                    android:id="@+id/textTerebralia"
+                    android:layout_width="158sp"
+                    android:layout_height="33dp"
+                    android:textSize="13sp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"
+                    android:text="@string/terebralia_palustris" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:orientation="horizontal"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.48"
+                tools:ignore="UseCompoundDrawables">
+                <ImageView
+                    android:id="@+id/imageThais"
+                    android:layout_width="160dp"
+                    android:layout_height="170dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/imgthais"
+                    android:contentDescription="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/textThais"
+                    android:layout_width="158sp"
+                    android:layout_height="33dp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="@string/thais_bufo"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.48"
+                tools:ignore="UseCompoundDrawables">
+                <ImageView
+                    android:id="@+id/imageBursa"
+                    android:layout_width="160dp"
+                    android:layout_height="170dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/imgbursa"
+                    android:contentDescription="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/textBursa"
+                    android:layout_width="158sp"
+                    android:layout_height="33dp"
+                    android:textSize="13sp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"
+                    android:text="@string/bursa_granularis" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>

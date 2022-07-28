@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">صدفتي</string>
+    <string name="text_onborder1">صنف الاصناف وادرسها بسهولة</string>
+    <string name="text_button">متابعة</string>
+    <string name="text_button2">تأمل بديع الخالق</string>
+    <string name="txt_toolbar">الصدفات</string>
+    <string name="title_main">الصدفات</string>
+    <string name="turbo_bruneus">Turbo bruneus</string>
+    <string name="cerithidea_cingulate">Cerithidea cingulate</string>
+    <string name="clypeomorus_bifasciatus">Clypeomorus bifasciatus</string>
+    <string name="nerita_albicilla">Nerita albicilla</string>
+    <string name="cerithium_caeruleum">Cerithium caeruleum</string>
+    <string name="terebralia_palustris">Terebralia palustris</string>
+    <string name="thais_bufo">Thais bufo</string>
+    <string name="bursa_granularis">Bursa granularis</string>
+    <string name="description">الوصف</string>
+    <string name="type">النوع :</string>
+    <string name="planaxis_sulcatus">Planaxis sulcatus</string>
+    <string name="descly">ترسية ذات الجنبين (دباي بونقط) يبلغ متوسط حجمها 20 ملم، تنتمي هذه الصدفة الى فصيلة الفتاتيات وهي اصداف صغيرة وبها عدة صفوف على كل ثنية من ثنايا جسمها و لون فتحتها الداخلية بيضاء او سمراء وعادة ما تكون اماكن تواجدها تحت الحجارة او في الرمل وتعد من الأنواع الشائعة جدا
+</string>
+    <string name="desnatr">يبلغ متوسط حجمها23 ملم, تمتاز بانها سميكة ,و تكون مستطيلة كروية الشكل ناعمة وملساء من الأعلى و يعود اول ظهور لها عام 1758 وعادة ما تكون أماكن تواجدها على الصخور الرطبة و المغمورة بالشقوق</string>
+    <string name="desth"> صخرية كبيرة الفم (ام لحاوية الصخر) يبلغ متوسط حجمها 50 ملم، تنتمي هذه الصدفة الى فصيلة الاصداف الصخرية وهي صدفة كبيرة راسها منخفض ولها فتحة كبيرة جدا برتقالية او صفراء اللون و الجزء الخارجي منها باهت اللون و هي من الأنواع النادرة</string>
+    <string name="des">يبلغ متوسط حجمها20 ملم يعود اول ظهور لهذا النوع من الاصداف عام 1780 وعادة ما تكون بيئة تواجدها في الطين في حالة المد و الجزر</string>
+    <string name="desa">يبلغ متوسط حجمها 30 ملم لديها اضلاع محورية عقيدية يكون لديها خطوط حلزونية بيضاء و بنية داكنة و بني شاحب ويعود اول ظهور لها عام 1791 وعادة ما تكون أماكن تواجدها في الرمال في حالة المد والجزر وبين غابات المانغروف</string>
+    <string name="desc">يبلغ متوسط حجمها20 ملم يعود اول ظهور لهذا النوع من الاصداف عام 1848 وعادة ما تكون بيئة تواجدها في تحت الرمال في حالة المد و الجزر</string>
+    <string name="family">العائلة :</string>
+    <string name="family_planaxidae">Family PLANAXIDAE</string>
+    <string name="gallary">معرض الصور</string>
+    <string name="Type">النوع :</string>
+    <string name="cerithium_scabridum">Cerithium scabridum</string>
+    <string name="family_potamididae">Family POTAMIDIDAE</string>
+    <string name="deste"> ساكنة المستنقعات (كعكوعة)يبلغ متوسط حجمها 90 ملم تنتمي هذه الصدفة الى فصيلة الوحليات وتمتاز بانها كبيرة، وثقيلة، تتواجد في الأماكن الوحلة ويبلغ طولها 120 ملم وهي سمراء اللون أما لونها الداخلي فاسمر غامق وعادة ما تكون أماكن تواجدها بين أشجار القرم حيث الوحل الكثيف</string>
+
+</resources>
